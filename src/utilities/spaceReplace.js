@@ -1,3 +1,3 @@
 export function spaceReplace(str) {
-	return str.replace(/\s/g, "-");
+  return str.replace(/\s/g, "-");
 }
